@@ -4,6 +4,21 @@
 This repository contains solutions to basic Python assignments (Q1–Q10).  
 Each problem is designed to practice core Python concepts such as loops, conditionals, dictionaries, sets, tuples, and functions.
 
+🛠 Skills Practiced
+
+Python basics
+
+Loops (for, while)
+
+Conditional statements (if, else, nested if)
+
+Collections (list, set, tuple, dictionary)
+
+Input/output handling
+
+✍️ Author: Anuradha Kumari
+📌 For learning purposes only.
+
 ---
 
 ## 📂 Assignment List
